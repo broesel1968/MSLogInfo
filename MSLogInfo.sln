@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MSLogInfo", "MSLogInfo\MSLogInfo.vbproj", "{3846BF9C-E1B4-41A4-9283-BBFC646456BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3846BF9C-E1B4-41A4-9283-BBFC646456BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3846BF9C-E1B4-41A4-9283-BBFC646456BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3846BF9C-E1B4-41A4-9283-BBFC646456BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3846BF9C-E1B4-41A4-9283-BBFC646456BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE7E387-CCFD-40A0-86EF-9C30452DF7DE}
+	EndGlobalSection
+EndGlobal
